@@ -759,4 +759,4 @@ Kafka:
   -- example on how to register serializers with Kryo
 * Twitter Chill examples on how to create Avro-based serializers for Kryo:
     * [AvroSerializerSpec.scala](https://github.com/twitter/chill/blob/develop/chill-avro/src/test/scala/com/twitter/chill/avro/AvroSerializerSpec.scala)
-    * [BijectionEnrichedKryo.scala](https://github.com/twitter/chill/blob/develop/chill-bijection/src/main/scala/com/twitter/chill/BijectionEnrichedKryo.scala)
+    * [BijectionEnrichedKryo.scala](https://github.com/twitter/chill/blob/develop/chill-bijection/src/main/scala/com/twitter/chill/BijectionEnrichedKryo.scala) 
